@@ -9,9 +9,9 @@ const values = [
 ]
 
 const leadership = [
-  { emoji: '👨‍💼', name: 'Dr. James Ochieng', role: 'Principal', desc: 'Ph.D. Education, Oxford. 22 years in academic leadership. Champion of student-centred learning.', bg: 'var(--navy)' },
-  { emoji: '👩‍💼', name: 'Mrs. Amina Kariuki', role: 'Deputy Principal', desc: 'M.Ed. Curriculum Design. Leads academic programmes and faculty development initiatives.', bg: 'var(--gold)' },
-  { emoji: '👨‍💼', name: 'Mr. Peter Njoroge', role: 'Head of Pastoral Care', desc: 'Dedicated to student wellbeing, guidance counselling, and a safe learning environment.', bg: 'var(--navy-light)' },
+  { emoji: '👨‍💼', name: 'Dr. Daniel Bett', role: 'Principal', desc: 'Ph.D. Education, Oxford. 22 years in academic leadership. Champion of student-centred learning.', bg: 'var(--navy)' },
+  { emoji: '👩‍💼', name: 'Mrs. Darleen Lagat', role: 'Deputy Principal', desc: 'M.Ed. Curriculum Design. Leads academic programmes and faculty development initiatives.', bg: 'var(--gold)' },
+  { emoji: '👨‍💼', name: 'Mr. Emmanuel Kipngetich', role: 'Head of Pastoral Care', desc: 'Dedicated to student wellbeing, guidance counselling, and a safe learning environment.', bg: 'var(--navy-light)' },
 ]
 
 export default function AboutPage() {
